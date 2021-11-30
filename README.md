@@ -2,7 +2,7 @@
 
 Estudos e scritps para NR
 
-[!Vault](synthetics/vault)
+[Synthetic Vault](synthetics/vault)
 
 * vault
 
